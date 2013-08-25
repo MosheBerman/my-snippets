@@ -6,7 +6,7 @@ This is a collection of code snippets for Xcode that help with implementing Appl
 Installation:
 ---
 
-1. Fork the repo. 
+1. Clone the repo. 
 2. Copy the files from the `snippets` directory into the snippets directore. In Xcode 4.6.3 this is `~/Library/Developer/Xcode/UserData/CodeSnippets/`.
 3. Restart Xcode. 
 
